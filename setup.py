@@ -10,9 +10,9 @@ setuptools.setup(
     description="",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    url="https://github.com/pysem/converters",
     project_urls={
         "Website": "https://github.com/pysem/converters",
-        "Documentation": "",
         "Issues": "https://github.com/pysem/converters/issues",
     },
     classifiers=[
