@@ -141,7 +141,7 @@ from pysem_converters import *
 
 - [@tory1103](https://github.com/tory1103) - Idea, Concept & Initial work
 
-See also the list of [contributors](https://github.com/tory1103/LKD/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/pysem/converters/contributors) who participated in this project.
 
 <p align="center">
   <a href="https://github.com/pysem/converters/graphs/contributors">
