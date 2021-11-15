@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh: long_description = fh.read(
 
 setuptools.setup(
     name="pysem-converters",
-    version="0.1",
+    version="0.2",
     author="Adrián Toral",
     author_email="adriantoral@sertor.es",
     description="",
