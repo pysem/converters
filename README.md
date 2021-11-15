@@ -118,9 +118,9 @@ python3 <test_name>.py
 ## 🎈 Usage <a name="usage"></a>
 
 ```python
-from pysem_converters import time_converter, SECONDS, MINUTES
+from pysem_converters import converter, SECONDS, MINUTES
 
-print(time_converter(10, SECONDS, MINUTES))
+print(converter(10, SECONDS, MINUTES))
 ```
 
 ## 🚀 Deployment <a name = "deployment"></a>
